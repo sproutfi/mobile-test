@@ -17,6 +17,7 @@ Your task is to code a stock application using Flutter, utilizing the provided A
 - Use this credentials to login, email: `john@example.com`, password: `password`.
 - The api is located at: https://stock-server-theta.vercel.app/api
 - You can use these sketch as a guide, but any ui you would like to achieve the same functionality.
+- Send us the solution in a repository with instructions on how to run it locally.
 
 
 ![ui sketches](/sketch.png)
